@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Hello There,I am SpoiledUnknown</h1>
-<h3 align="center">Founder and Owner of Non-Dynamic Studios</h3>
+<h3 align="center">Founder and Owner of Non Dynamic Studios</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunknownop&label=Profile%20views&color=0e75b6&style=flat" alt="mrunknownop" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spoiledunknown&label=Profile%20views&color=0e75b6&style=flat" alt="spoiledunknown" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunknownop" alt="mrunknownop" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spoiledunknown" alt="spoiledunknown" /></a> </p>
 
 - 🔭 I’m currently working on [Ms. Noty(A discord bot)](https://top.gg/bot/774225512373551115)
 
