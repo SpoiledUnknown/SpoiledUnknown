@@ -1,4 +1,15 @@
-<img src="My Video.gif" alt="Your net sucks!!">
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
+
+<div class="center">
+  <img src="My Video.gif" alt="Your Net Sucks!!">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm SpoiledUnknown</h1>
 <h3 align="center">A passionate Game Developer and Programmer From India</h3>
