@@ -1,12 +1,4 @@
-<style>
-  .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
-
-<div class="center">
+<div align="center">
   <img src="My Video.gif" alt="Your Net Sucks!!">
 </div>
 
