@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="My Video.mp4" alt="Your Net Sucks!!">
+  <video id="myVideo" autoplay loop muted>
+  <source src="My Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 </div>
 
 
