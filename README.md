@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://instagram.com/spoiledunknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spoiledunknown" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/spoiledunknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spoiledunknown" height="30" width="40" /></a>
-<a href="https://discord.gg/YykdmCjzmQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YykdmCjzmQ" height="30" width="40" /></a>
+<a href="https://discord.gg/YykdmCjzmQ" target="blank"><img align="center" src="./public/discord.webp" alt="YykdmCjzmQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages :</h3>
@@ -41,7 +41,7 @@
      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Backend and Other Tools :</h3>
+<h3 align="left">Backend, Databases and Other Tools :</h3>
 <p align="left">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
@@ -53,15 +53,11 @@
 
 <h3 align="left">frameworks and Softwares :</h3>
 <p align="left">
-     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M243.6 91.6L323.7 138.4C326.6 140 326.7 144.6 323.7 146.2L228.5 201.9C225.6 203.6 222.2 203.4 219.5 201.9L124.4 146.2C121.4 144.6 121.4 140 124.4 138.4L204.4 91.6V0L0 119.4V358.3L78.4 312.5V218.9C78.3 215.6 82.2 213.2 85.1 215L180.3 270.6C183.2 272.3 184.8 275.3 184.8 278.5V389.7C184.8 393 181 395.4 178.1 393.6L98 346.8L19.6 392.6L224 512L428.4 392.6L350 346.8L269.9 393.6C267.1 395.3 263.1 393.1 263.2 389.7V278.5C263.2 275.1 265.1 272.2 267.7 270.6L362.9 215C365.7 213.2 369.7 215.5 369.6 218.9V312.5L448 358.3V119.4L243.6 0V91.6z"/></svg> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="./public/dotnet.webp" alt="dotnet" width="40" height="40"/> </a> 
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="./public/unity.webp" alt="unity" width="40" height="45"/>  </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="./public/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="./public/blender.png" alt="blender" width="40" height="40"/> </a>
 </p>
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spoiledunknown&show_icons=true&locale=en&layout=compact" alt="spoiledunknown" /></p>
 
