@@ -68,7 +68,6 @@ I enjoy building software that solves real problems—from web applications and 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
@@ -77,11 +76,11 @@ I enjoy building software that solves real problems—from web applications and 
 > ### 📫 Connect
 
 <p>
-<a href="YOUR_PORTFOLIO"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
-<a href="YOUR_LINKEDIN"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
-<a href="YOUR_GITHUB"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
-<a href="YOUR_YOUTUBE"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
+<a href="https://spoiledunknown.github.io/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
+<a href="https://www.linkedin.com/in/shashank-raj-4a028540b/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
+<a href="https://github.com/SpoiledUnknown"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
+<a href="https://www.youtube.com/spoiledunknown"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/></a>
+<a href="mailto:spoiledunknowndev@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
 </p>
 
 </td>
