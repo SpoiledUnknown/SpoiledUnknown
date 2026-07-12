@@ -88,9 +88,6 @@ I enjoy building software that solves real problems—from web applications and 
 <td width="35%" align="center">
 
 <img src="./public/top.jpg" width="100%" alt="Anime"/>
-
----
-
 <img src="./public/bottom.jpg" width="100%" alt="Anime"/>
 
 <br><br>
